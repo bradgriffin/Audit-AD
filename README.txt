@@ -1,0 +1,1 @@
+A powershell script I wrote to audit Active Directory environments. Should not harm anything, but please use at your own risk.
